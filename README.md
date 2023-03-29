@@ -2,6 +2,7 @@
 User Rewards-Calculator
 
 java 1.8 -> Gradel -> H2 
+
 URLs
  GET : http://localhost:8080/users/1/rewards
  GET : http://localhost:8080/users/2/rewards
